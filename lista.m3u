@@ -1,6 +1,14 @@
 #EXTM3U Acestream
+#EXTINF:-1 tvg-id=BTSPORT2FHD tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, BTSPORT2FHD
+http://127.0.0.1:2000/pid/5817f9d710d682fe975a16c47306bfdced437319/stream.mp4
+#EXTINF:-1 tvg-id=BTSPORT1FHD tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, BTSPORT1FHD
+http://127.0.0.1:2000/pid/b81cea9e918e1f99d213dda75105bcda529df3ff/stream.mp4
+http://127.0.0.1:2000/pid/445fe5255504241de5eec52b092a8043a83118f5/stream.mp4
+#EXTINF:-1 tvg-id=BTSPORTESPN tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, BTSPORTESPN
 #EXTINF:-1 tvg-id=SPORTTV5HD1080 tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, SPORTTV5HD1080
 http://127.0.0.1:2000/pid/98fc40c31e20b13c23475670ddb8eb799f99e3fb/stream.mp4
+#EXTINF:-1 tvg-id=DİGİSPORT1HDRO tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, DİGİSPORT1HDRO
+http://127.0.0.1:2000/pid/afda7ad25cf53be75a9da094d6778077673d705e/stream.mp4
 #EXTINF:-1 tvg-id=LALİGATVBAR tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, LALİGATVBAR
 http://127.0.0.1:2000/pid/268361065992567230d35c0d62f02ffdebe8be2d/stream.mp4
 #EXTINF:-1 tvg-id=LIGALİGA1080MULTİAUDİO tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, LIGALİGA1080MULTİAUDİO
@@ -17,7 +25,24 @@ http://127.0.0.1:2000/pid/0eb963333f8561e07fc2bd099deacccbdf317b8d/stream.mp4
 #EXTINF:-1 tvg-id=F1TV tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, F1TV
 http://127.0.0.1:2000/pid/f008afebe8346b13257453ba43f50fbdcfefed1a/stream.mp4
 http://127.0.0.1:2000/pid/da465079d5b418a3cac268314dd0b39cb28c88e7/stream.mp4
+http://127.0.0.1:2000/pid/dfcd22525d274932c84963f944834958f0906412/stream.mp4
+http://127.0.0.1:2000/pid/e7aaec518f12e6e4c0c7d3fda2a7ec4da271a539/stream.mp4
+#EXTINF:-1 tvg-id=SKYSPORTSF1 tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, SKYSPORTSF1
+http://127.0.0.1:2000/pid/c243a00a5f19fdd0c6824f3c28074215fadc0fe0/stream.mp4
+#EXTINF:-1 tvg-id=DigiSport3Romania tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, DigiSport3Romania
+http://127.0.0.1:2000/pid/13d55344568b03a72b4685a2e2004df15d0c457a/stream.mp4
+#EXTINF:-1 tvg-id=SPORTTV1HD1080 tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, SPORTTV1HD1080
+http://127.0.0.1:2000/pid/15894eb997a5a8fcbff7aeba0484208c043f9bef/stream.mp4
+http://127.0.0.1:2000/pid/b9b5a52abc21a74cd082649c946ea94fe13f80fa/stream.mp4
+http://127.0.0.1:2000/pid/9da24d440f0d023b127a1dd18ae1ebbe29ed6f9e/stream.mp4
+http://127.0.0.1:2000/pid/c4362aac9a424878e684766120548629a0ff2bce/stream.mp4
+#EXTINF:-1 tvg-id=BARCATV tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, BARCATV
+http://127.0.0.1:2000/pid/31fcaafcf0b516eb2723250f744f966b6b40cc2c/stream.mp4
+http://127.0.0.1:2000/pid/028f8ae7dd65144013baf30aa749c87794ba466f/stream.mp4
 #EXTINF:-1 tvg-id=BTSPORT3UK tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, BTSPORT3UK
+#EXTINF:-1 tvg-id=ESPN1NEDERLANDHD tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, ESPN1NEDERLANDHD
+http://127.0.0.1:2000/pid/75d20d85da02925145beb734038791e59622952c/stream.mp4
+#EXTINF:-1 tvg-id=DAZNGERMANY tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, DAZNGERMANY
 #EXTINF:-1 tvg-id=M.Deportes1080 tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, M.Deportes1080
 http://127.0.0.1:2000/pid/9a68bf410d49d4d140217cfd576cc99e927f1cd6/stream.mp4
 #EXTINF:-1 tvg-id=M.Deportes11080 tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, M.Deportes11080
@@ -28,21 +53,23 @@ http://127.0.0.1:2000/pid/85bd65161dfd8c4033194da3c978c0450c9111db/stream.mp4
 http://127.0.0.1:2000/pid/d357998908bf0986f5ae2714e0ef471d2e74ceca/stream.mp4
 #EXTINF:-1 tvg-id=M.Deportes4SD tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, M.Deportes4SD
 http://127.0.0.1:2000/pid/a88195215f9b6e38bf6363d28bfe84000a12d46a/stream.mp4
-#EXTINF:-1 tvg-id=SPORTTV1HD1080 tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, SPORTTV1HD1080
-http://127.0.0.1:2000/pid/15894eb997a5a8fcbff7aeba0484208c043f9bef/stream.mp4
-http://127.0.0.1:2000/pid/b9b5a52abc21a74cd082649c946ea94fe13f80fa/stream.mp4
-http://127.0.0.1:2000/pid/9da24d440f0d023b127a1dd18ae1ebbe29ed6f9e/stream.mp4
+#EXTINF:-1 tvg-id=BEINSPORTSMENA2HD tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, BEINSPORTSMENA2HD
+#EXTINF:-1 tvg-id=SPORTTV2HD1080 tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, SPORTTV2HD1080
+http://127.0.0.1:2000/pid/b6035d6c3e25776479b5000ece8a080dd8b4c679/stream.mp4
+http://127.0.0.1:2000/pid/be85b5180ede846d81dfa781255ca77169be8f34/stream.mp4
+http://127.0.0.1:2000/pid/ce027b61287bc7060e9f174253e7f6831a2a0fc5/stream.mp4
+http://127.0.0.1:2000/pid/15b315699b30d95fcc0087229bdd44145ae772cf/stream.mp4
 #EXTINF:-1 tvg-id=DİGİSPORT2HDRO tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, DİGİSPORT2HDRO
 http://127.0.0.1:2000/pid/e94d3af5d719a1773827aac6ba3f3a1137082e57/stream.mp4
+#EXTINF:-1 tvg-id=BEINSPORTSMENA1HD tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, BEINSPORTSMENA1HD
 #EXTINF:-1 tvg-id=SPORTTV3HD1080 tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, SPORTTV3HD1080
 http://127.0.0.1:2000/pid/3c81c395fc9385c650e0fba8c286935c594f7e1a/stream.mp4
 http://127.0.0.1:2000/pid/4cea6ec6c5af9453456225ddf38a406252c1b6a7/stream.mp4
 #EXTINF:-1 tvg-id=DİGİSPORT3HDRO tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, DİGİSPORT3HDRO
-http://127.0.0.1:2000/pid/13d55344568b03a72b4685a2e2004df15d0c457a/stream.mp4
-#EXTINF:-1 tvg-id=SPORTTV2HD1080 tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, SPORTTV2HD1080
-http://127.0.0.1:2000/pid/b6035d6c3e25776479b5000ece8a080dd8b4c679/stream.mp4
 #EXTINF:-1 tvg-id=BEINSPORTS1FRANCE tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, BEINSPORTS1FRANCE
 http://127.0.0.1:2000/pid/54cbfaf8ad446499aae28ae50b512d95c263f811/stream.mp4
+#EXTINF:-1 tvg-id=MATCH!TVHD tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, MATCH!TVHD
+http://127.0.0.1:2000/pid/955bc653f090c238b8d933b41d8a66fee1bf7893/stream.mp4
 #EXTINF:-1 tvg-id=BALLYSPORTSFLORİDA tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, BALLYSPORTSFLORİDA
 #EXTINF:-1 tvg-id=NBCSCHİCAGO tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, NBCSCHİCAGO
 #EXTINF:-1 tvg-id=VAMOS1080 tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, VAMOS1080
