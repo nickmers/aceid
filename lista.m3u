@@ -47,3 +47,8 @@ http://127.0.0.1:2000/pid/54cbfaf8ad446499aae28ae50b512d95c263f811/stream.mp4
 #EXTINF:-1 tvg-id=NBCSCHİCAGO tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, NBCSCHİCAGO
 #EXTINF:-1 tvg-id=VAMOS1080 tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, VAMOS1080
 http://127.0.0.1:2000/pid/2dbea1288c3bad4a8faab395249fb5e5edfde4b6/stream.mp4
+#EXTINF:-1 tvg-id=VAMOS720 tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, VAMOS720
+http://127.0.0.1:2000/pid/0fdcd632dc776bc44ab2f474a6d079820d80132f/stream.mp4
+#EXTINF:-1 tvg-id=ASTROSUPERSPORT4 tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, ASTROSUPERSPORT4
+#EXTINF:-1 tvg-id=BALLYSPORTSOKLAHOMA tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, BALLYSPORTSOKLAHOMA
+#EXTINF:-1 tvg-id=AT&TSPORTSNETSWHOU tvg-logo=https://raw.githubusercontent.com/davidmuma/Canales_dobleM/master/icon/acestream.png group-title=, AT&TSPORTSNETSWHOU
