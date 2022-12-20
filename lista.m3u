@@ -1,33 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 xui-id="111" tvg-id="LA 1 HD" tvg-name="LA 1 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TVE" group-title="01 - TV ESPAÑA",LA 1 SD
-http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jIyhPV2oXgfwg1m7BJUZZLY
-#EXTINF:-1 xui-id="2580" tvg-id="LA 1 HD" tvg-name="LA 1 HD" tvg-logo="http://eter-picons.one/picons/La_1_HD.png" group-title="01 - TV ESPAÑA",LA 1 HD
-http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jNVS1eNhK_g5Y3-I7pNYwa8
 #EXTINF:-1 xui-id="2579" tvg-id="LA 1 HD" tvg-name="LA 1 FHD" tvg-logo="http://eter-picons.one/picons/La_1_HD.png" group-title="01 - TV ESPAÑA",LA 1 FHD
-http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jGxJyaXkCeoLobjFd6jFjEU
-#EXTINF:-1 xui-id="2817" tvg-id="LA 1 HD" tvg-name="LA 1 FHD EXTRA" tvg-logo="http://eter-picons.one/picons/La_1_HD.png" group-title="01 - TV ESPAÑA",LA 1 FHD EXTRA
-http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jFAVrgINp0z4a7_R9uXV_jo
-#EXTINF:-1 xui-id="26483" tvg-id="LA 1 FHD" tvg-name="TVE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Logo_TVE-4K.svg/1200px-Logo_TVE-4K.svg.png" group-title="01 - TV ESPAÑA",TVE 4K
-http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jBoqEOXK_Jlx8cZfu1Rhv8hKBTZ-RGaMNX8unIgjxyVh
-#EXTINF:-1 xui-id="112" tvg-id="La 2 HD" tvg-name="LA 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="01 - TV ESPAÑA",LA 2 SD
-http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jGXslMGcz_OqmUyLfs-zPR0
-#EXTINF:-1 xui-id="2582" tvg-id="la2.es" tvg-name="LA 2 HD" tvg-logo="https://satcesc.com/wp-content/uploads/2017/09/La2-HD.jpg" group-title="01 - TV ESPAÑA",LA 2 HD
-http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jOStN0GhU-4lNDOl0jzIyEQ
+http://totalrex.site:8080/play/mbf-JtfQrexHUUVmpdYWqK9Sw2Uu9yFXwmtK2vtU6BIS_FVZZZYCplUA_rrMYmE6
+
 #EXTINF:-1 xui-id="2581" tvg-id="La 2 HD" tvg-name="LA 2 FHD" tvg-logo="https://satcesc.com/wp-content/uploads/2017/09/La2-HD.jpg" group-title="01 - TV ESPAÑA",LA 2 FHD
-http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jNYbOE80-xCLRpXsHr6nEFM
-#EXTINF:-1 xui-id="2819" tvg-id="la2.es" tvg-name="LA 2 FHD EXTRA" tvg-logo="https://satcesc.com/wp-content/uploads/2017/09/La2-HD.jpg" group-title="01 - TV ESPAÑA",LA 2 FHD EXTRA
-http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jKHOfazWjfdAnx96OuQvzp8
-#EXTINF:-1 xui-id="113" tvg-id="ANTENA 3 FHD" tvg-name="ANTENA 3 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/A3" group-title="01 - TV ESPAÑA",ANTENA 3 SD
-http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jP6ML2aUZnuzg3YFA9PXrO8
-#EXTINF:-1 xui-id="2584" tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-color/picon/1_0_19_95_F_22D4_EEEE0000_0_0_0.png" group-title=>http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jA7qdBKA1gF-YiSDZgJ32uI
-#EXTINF:-1 xui-id="2583" tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 FHD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-color/picon/1_0_19_95_F_22D4_EEEE0000_0_0_0.png" group-title>http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jC3T7vx4TyOM0YfWI8WOFCQ
-#EXTINF:-1 xui-id="2821" tvg-id="ANTENA 3 FHD" tvg-name="ANTENA 3 FHD EXTRA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-color/picon/1_0_19_95_F_22D4_EEEE0000_0_0_0.png" grou>http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jGOgUtW59dTbqOX1ZzbGbuE
-#EXTINF:-1 xui-id="114" tvg-id="CUATRO FHD" tvg-name="CUATRO SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/C4" group-title="01 - TV ESPAÑA",CUATRO SD
-http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jMLg0d-xtegfeRijpDaUFTY
-#EXTINF:-1 xui-id="2586" tvg-id="CUATRO FHD" tvg-name="CUATRO HD" tvg-logo="http://vfes-images.ott.kaltura.com/5a7a8b597a8b429ea6e75231ff666f2a_288X162.png" group-title="01 - TV ESPAÑA",CUATRO HD
-http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jFn1tL7K6JUQcY_HohgQens
+http://totalrex.site:8080/play/mbf-JtfQrexHUUVmpdYWqERN1dzAWAde16Mr2zTpuycXFmjFzF6Ue6Vtcwxdlzso
+
+#EXTINF:-1 xui-id="2583" tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 FHD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-color/picon/1_0_19_95_F_22D4_EEEE0000_0_0_0.png" group-title="01 - TV ESPAÑA",ANTENA 3 FHD
+http://totalrex.site:8080/play/9XkN8NazKdMekfqer2ILs4DBOmk0EpPwsaoCR8S3KEgN62gyRIsKcIQmcfJMDEQz
+
 #EXTINF:-1 xui-id="2585" tvg-id="CUATRO HD" tvg-name="CUATRO FHD" tvg-logo="http://vfes-images.ott.kaltura.com/5a7a8b597a8b429ea6e75231ff666f2a_288X162.png" group-title="01 - TV ESPAÑA",CUATRO FHD
-http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jNSm8KRtwYgeICkxEOA5H0Y
-#EXTINF:-1 xui-id="2823" tvg-id="CUATRO FHD" tvg-name="CUATRO FHD EXTRA" tvg-logo="http://vfes-images.ott.kaltura.com/5a7a8b597a8b429ea6e75231ff666f2a_288X162.png" group-title="01 - TV ESPAÑA",CUATRO FHD EXTRA
-http://totalrex.site:8080/play/VVgtaN91W2zl4k2Y2s45jNoDv2_7ulRorMJLmHXjmzI
+http://totalrex.site:8080/play/9XkN8NazKdMekfqer2ILs7hvV81Y1V3_HItiUn-ocnl728Kfj3l1g51HcmM9jsII
+
+#EXTINF:-1 xui-id="2587" tvg-id="TELECINCO HD" tvg-name="TELECINCO FHD" tvg-logo="http://eter-picons.one/picons/Telecinco_HD.png" group-title="01 - TV ESPAÑA",TELECINCO FHD
+http://totalrex.site:8080/play/qthQUbvou4B-3SL-aR3tROqfOZBLsYoWD8104aVaeppNHJm8BA4KylA3okVxNo4T
+
+#EXTINF:-1 xui-id="2589" tvg-id="LA SEXTA HD" tvg-name="LA SEXTA FHD" tvg-logo="http://vfes-images.ott.kaltura.com/50901f8324df4ad88a09ee8817265eb6_288X162.png" group-title="01 - TV ESPAÑA",LA SEXTA FHD
+http://totalrex.site:8080/play/qthQUbvou4B-3SL-aR3tRBNUEirJ1bvWlwG99tJMgowm0_y_iXLdi0pbucxC8aXs
+
+#EXTINF:-1 xui-id="2597" tvg-id="NOVA" tvg-name="NOVA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="01 - TV ESPAÑA",NOVA FHD
+http://totalrex.site:8080/play/qthQUbvou4B-3SL-aR3tRD09FzqI_vChDLZgJo6CBGzt78bygdfGNfd64CyoyzbK
+
+#EXTINF:-1 xui-id="2592" tvg-id="NEOX FHD" tvg-name="NEOX FHD" tvg-logo="http://fanc.tmsimg.com/assets/s102754_ll_h3_aa.png" group-title="01 - TV ESPAÑA",NEOX FHD
+http://totalrex.site:8080/play/qthQUbvou4B-3SL-aR3tRKSQYecOuJkAULTMgwfJ-EWaFNJrVEQ8pkOldGWhS_OZ
+
+#EXTINF:-1 xui-id="2601" tvg-id="factoriaficcion.es" tvg-name="FDF FHD" tvg-logo="http://eter-picons.one/picons/Factoria_de_Ficcion.png" group-title="01 - TV ESPAÑA",FDF FHD
+http://totalrex.site:8080/play/qthQUbvou4B-3SL-aR3tREanyvlPzGT64a34r1B3W1dBfu-E1mBhv_9yMhlzlHep
+
+#EXTINF:-1 xui-id="2593" tvg-id="ENERGY" tvg-name="ENERGY FHD" tvg-logo="https://raw.githubusercontent.com/LinuxZoneTv/Picon_Movistar/master/1_0_1_749F_41C_1_C00000_0_0_0.png" group-title="01 - TV ESPAÑA",ENERGY FHD
+http://totalrex.site:8080/play/qthQUbvou4B-3SL-aR3tRKyOfAyqPkSwOtsKB3bhvOaxMKo2qgBnw4TVLA8pDBWO
+
+#EXTINF:-1 xui-id="2599" tvg-id="DIVINIT" tvg-name="DIVINITY FHD" tvg-logo="https://static1.elcorreo.com/www/pre2017/multimedia/noticias/201606/27/media/divinity-logo-k4JE-U201070283760nS-575x323@El%20Correo.jpg" group-title="01 - TV ESPAÑA",DIVINITY FHD
+http://totalrex.site:8080/play/qthQUbvou4B-3SL-aR3tRA3Mhf-pzl90a2yTGBgDDxD2cK66xePIyWC7lMI4Wlg2
